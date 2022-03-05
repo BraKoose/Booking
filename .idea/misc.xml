@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_date_range_light_blue_24dp.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_flight_up.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_location_on_light_blue_24dp.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/rounded_corner.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/transperant_round_rect.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.16354166666666667" />
+        <entry key="app/src/main/res/layout/booking_detail_fragment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_base_toolbar.xml" value="0.1828125" />
+        <entry key="app/src/main/res/layout/fragment_flight_selection.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_new_ticket.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/fragment_registeration.xml" value="0.15260416666666668" />
+        <entry key="app/src/main/res/layout/fragment_reset_password.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/fragment_seat_selection.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_success.xml" value="0.19479166666666667" />
+        <entry key="app/src/main/res/layout/fragment_tabs.xml" value="0.18974358974358974" />
+        <entry key="app/src/main/res/layout/fragment_ticket_selection.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/item_booking.xml" value="0.19479166666666667" />
+        <entry key="app/src/main/res/layout/item_flight.xml" value="0.19479166666666667" />
+        <entry key="app/src/main/res/layout/item_ticket.xml" value="0.19479166666666667" />
+        <entry key="app/src/main/res/layout/layout_item_tab.xml" value="0.19479166666666667" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
